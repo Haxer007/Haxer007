@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagadeeswar, aka @Haxer007 in CyberWorld
 - 💻 Passion in Cyber Security.
-- 👀 I’m interested in Reverse Engineering
+- 👀 Skilled in WebApp Pentesting, Malware Analysis and Reverse Engineering
 - 🌱 I’m currently learning alot of things.
 - 📫 Reach me out on 
           - LinkedIn: https://www.linkedin.com/in/haxer/

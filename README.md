@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning alot of things.
 - 📫 Reach me out on 
           - LinkedIn: https://www.linkedin.com/in/haxer/
-          - Mail    : haxer.space@gmail.com
+          - Mail    : r.jagadeeswar2000@gmail.com
 - Here's my Engineering Final Year Project : https://github.com/Haxer007/Criminal_Face_Identification_System#readme
 <!---
 Haxer007/Haxer007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

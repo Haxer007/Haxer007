@@ -5,7 +5,7 @@
 - 📫 Reach me out on 
      - LinkedIn: https://www.linkedin.com/in/haxer/
      - Mail    : r.jagadeeswar2000@gmail.com
-- Here's my Engineering Final Year Project :
+- Engineering Final Year Project :
      -  https://github.com/Haxer007/Criminal_Face_Identification_System#readme
 - Blog : https://jagadeeswar.ml 
 <!---

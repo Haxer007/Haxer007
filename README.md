@@ -3,7 +3,7 @@
 - 👀 Skilled in WebApp Pentesting, Malware Analysis and Reverse Engineering
 - 🌱 I’m currently learning alot of things.
 - 📫 Reach me out on 
-     - LinkedIn: https://www.linkedin.com/in/haxer/
+     - LinkedIn: https://www.linkedin.com/in/jagadeeswar007
      - Mail    : r.jagadeeswar2000@gmail.com
 - Engineering Final Year Project :
      -  https://github.com/Haxer007/Criminal_Face_Identification_System#readme
